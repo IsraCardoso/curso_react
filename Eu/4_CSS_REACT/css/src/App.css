@@ -1,0 +1,20 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: Helvetica;
+  padding-bottom: 500px;
+  text-align: center;
+}
+
+h1{
+  color: blueviolet;
+}
+
+.p-app{
+  color: blue;
+  background-color: black;
+}
+
+.red-title{
+  color: red;
+}
