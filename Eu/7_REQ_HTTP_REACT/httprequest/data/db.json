@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "name": "Calça azul",
+      "price": "159",
+      "id": 3
+    },
+    {
+      "name": "Calça preta",
+      "price": "789",
+      "id": 4
+    },
+    {
+      "name": "Caneta azul",
+      "price": "4",
+      "id": 5
+    }
+  ]
+}
